@@ -1,4 +1,3 @@
-# Hi there, I'm Mustafa Enes Yeşilyurt 👋
 
 ### Industrial Engineer | Data Science & AI Automation
 
